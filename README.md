@@ -45,7 +45,7 @@ GIS-OilPalm - Sistem Informasi Geografis Kelapa Sawit berbasis web menggunakan C
 
 <h3>Laporan</h3>
 
-[11](https://github.com/Pajar-Padillah/GIS-OilPalm/assets/81399270/458252ef-daa4-4c66-ae37-5e4a289be3af)
+![11](https://github.com/Pajar-Padillah/GIS-OilPalm/assets/81399270/1b3f076b-4a5c-4ce5-85dd-f4a7b405364e)
 
 <h3>Dashboard Unit</h3>
 
